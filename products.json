@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Apple iphone 13(Starlight, 128GB)",
+        "price": "Rs 52,999",
+        "feature": "128 GB ROM, 15.49 cm (6.1 inch) Super Retina XDR Display, 12MP + 12MP | 12MP Front Camera,A15 Bionic Chip Processor,Brand Warranty for 1 Year",
+        "company": "apple"
+    },
+    {
+        "name": " Apple iphone 13(Pink, 128GB)",
+        "price": "Rs 52,999",
+        "feature": "128 GB ROM, 15.49 cm (6.1 inch) Super Retina XDR Display, 12MP + 12MP | 12MP Front Camera,A15 Bionic Chip Processor,Brand Warranty for 1 Year",
+        "company": "apple"
+    },
+    {
+        "name": "Apple iphone 13(Green, 128GB)",
+        "price": "Rs 52,999",
+        "feature": "128 GB ROM, 15.49 cm (6.1 inch) Super Retina XDR Display, 12MP + 12MP | 12MP Front Camera,A15 Bionic Chip Processor,Brand Warranty for 1 Year",
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Galaxy F14 5G(B.A.E Purple)",
+        "price": "Rs 10,990",
+        "feature": "6 GB RAM | 12GB ROM | Expandable Upto 1 TB, 16.76 cm (6.6 inch) Full HD + Display,50MP + 2MP | 13MP Front Camera, 6000mah Battery",
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Galaxy M14 5G(lcy Silver, 128 GB)",
+        "price": "Rs 12,340",
+        "feature": "6 GB RAM, 128 GB ROM, 16.76 cm (6.6 inch) Display, 50MP Rear Camera, 6000mAh Battery",
+        "company": "Samsung"
+    },
+    {
+        "name": "Samsung Galaxy M14 5G(Smoky Teal 128 GB)",
+        "price": "Rs 12,194",
+        "feature": "128 GB ROM, 6 GB RAM, 15.49 cm (6.6 inch) Display, 50MP Rear Camera, 6000mAh Battery",
+        "company": "Samsung"
+    },
+    {
+        "name": "realme 11x 5G(Midnight Black, 128GB)",
+        "price": "Rs 15,999",
+        "feature": "8GB RAM | 128 GB ROM | Expandable Upto 2 TB, 17.07 cm(6.72 inch) Full HD+Display, 64MP + 2MP | 8MP Front Camera, 5000mAh Battery, Dimensity 6100+ Processor",
+        "company": "Realme"
+    },
+    {
+        "name": "realme 11x 5G(Purple Dawn, 128 GB)",
+        "price": "Rs 14,999",
+        "feature": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB, 17.07 cm(6.72 inch) Full HD+Display, 64MP + 2MP | 8MP Front Camera, 5000mAh Battery, Dimensity 6100+ Processor",
+        "company": "Realme"
+    },
+    {
+        "name": "realme 11x 5G(Midnight Black, 128GB)",
+        "price": "Rs 14,999",
+        "feature": "128 GB ROM, 15.49 cm (6.1 inch) Super Retina XDR",
+        "company": "apple"
+    },
+    {
+        "name": "vivo T2 5G (Velocity Wave, 128GB)",
+        "price": "Rs 17,999",
+        "feature": "8 GB RAM | 128 GB ROM, 16.21 cm (6.38 inch) Full HD+Display",
+        "company": "Vivo"
+    },
+    {
+        "name": "vivo T2x 5G (Marine Blue, 128GB)",
+        "price": "Rs 12,999",
+        "feature": "6 GB RAM | 128 GB ROM, 16.71 cm (6.58 inch) Full HD+ Display, 50MP + 2MP | 8MP Front Camera, 5000 mah Battery",
+        "company": "Vivo"
+    },
+    {
+        "name": "vivo T2x 5G (Marine Blue, 128GB)",
+        "price": "Rs 11,999",
+        "feature": "4 GB RAM | 128 GB ROM, 16.71 cm (6.58 inch) Full HD+ Display, 50MP + 2MP | 8MP Front Camera, 5000 mah Battery",
+        "company": "apple"
+    },
+    {
+        "name": "OnePlus Nord CE 3 Lite 5G(Chromatic Gray, 256 GB)",
+        "price": "Rs 20,807",
+        "feature": "256 GB ROM, 8GB RAM, 17.07 cm (6.72 inch) Display 108MP Rear Camera, 5000 mAh Battery",
+        "company": "apple"
+    },
+    {
+        "name": "OnePlus Nord CE 3 Lite 5G(Chromatic Gray, 128 GB)",
+        "price": "Rs 19,999",
+        "feature": "8 GB RAM | 128 GB ROM, 17.07 cm(6.72 inch) Display, 108MP Rear Camera, 5000mAH Battery",
+        "company": "OnePlus"
+    },
+    {
+        "name": "OnePlus Nord CE 3 Lite 5G(Pastel Lime, 128 GB)",
+        "price": "Rs 19,295",
+        "feature": "8 GB RAM | 128 GB ROM, 17.07 cm (6.72 inch) Display, 108MP Rear Camera, 5000mAh Battery",
+        "company": "OnePlus"
+    },
+    {
+        "name": "OnePlus Nord CE 2 Lite 5G(Black Dusk, 128 GB)",
+        "price": "Rs 17,764",
+        "feature": "64MP Rear Camera | 16MP Front Camera, 5000mAh Battery",
+        "company": "OnePlus"
+    },
+    {
+        "name": "READMI 12 5G (MoonStone Silver, 128GB)",
+        "price": "Rs 12,999",
+        "feature": "50MP + 2MP | 8MP Front Camera, 5000 mah Battery",
+        "company": "READMI"
+    },
+    {
+        "name": "READMI 12 5G (Pastel Blue, 128 GB)",
+        "price": "Rs 12,999",
+        "feature": "128 GB ROM, 15.49 cm (6.1 inch) Super Retina XDR",
+        "company": "apple"
+    },
+    {
+        "name": "READMI 12 5G (Moonstone Silver, 256 GB)",
+        "price": "Rs 14,999",
+        "feature": "256 GB ROM | Expandable Upto 1 TB, 17.25 cm (6.79 inch) Full HD+ Display, 50MP + 2MP | 8MP Front Camera, 5000mAh Battery",
+        "company": "READMI"
+    },
+    {
+        "name": "READMI A2 (Aqua Blue, 64 GB)",
+        "price": "Rs 5,299",
+        "feature": "2 GB RAM | 64 GB ROM | Expandable Upto 1 TB, 16.56 cm(6.52 inch) HD+ Display, 8MP Rear Camera | 5MP Front Camera, 5000 mAh Battery, Helio G36 Processor",
+        "company": "READMI"
+    },
+    {
+        "name": "READMI Note 13 Pro 5G(Coral Purple, 128 GB)",
+        "price": "Rs 25,999",
+        "feature": "8GB RAM | 128 GB ROM, 16.94 cm(6.67 inch) Display, 200MP (OIS) + 8MP + 2MP | 16MP Front Camera, 5100 mAh Battery",
+        "company": "READMI"
+    },
+    {
+        "name": "README 13C (Starshine Green, 128 GB)",
+        "price": "Rs 8,999",
+        "feature": "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB, 17.12 cm (6.74 inch) HD+ Display, 50MP Rear Camera | 8MP Front Camera, 5000mAh, Helio G85 Processor",
+        "company": "READMI"
+    },
+    {
+        "name": "READMI Note 13 Pro 5G (Midnight Black, 128 GB)",
+        "price": "Rs 25,999",
+        "feature": "8 GB RAM | 128 GB ROM, 16.94 cm (6.67inch) Display, 200MP (OIS) + 8MP + 2MP | 16MP Front Camera, 5100 mAh Battery,7s Gen 2 Mobile Platform 5G Processor",
+        "company": "READMI"
+    },
+    {
+        "name": "READMI Note 13 Pro 5G (Coral Purple, 256 GB)",
+        "price": "Rs 27,999",
+        "feature": "8 GB RAM | 256 GB ROM, 16.94 cm (6.67 inch) Display, 200MP (OIS) + 8MP + 2MP | 16MP Front Camera 5100 mAh Battery, 7s Gen 2 Mobile Platform 5G Processor",
+        "company": "READMI"
+    },
+    {
+        "name": "READMI Note 13 Pro 5G (Arctic White, 128GB)",
+        "price": "Rs 25,999",
+        "feature": "8 GB RAM | 128 GB ROM, 16.94 cm (6.67 inch) Display, 200MP (OIS) + 8MP + 2MP | 16MP Front Camera 5100 mAh Battery, 7s Gen 2 Mobile Platform 5G Processor",
+        "company": "READMI"
+    }
+]
